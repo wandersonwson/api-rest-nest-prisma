@@ -1,10 +1,10 @@
 {
   "name": "api-rest-nest-prisma",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
-  "license": "UNLICENSED",
+  "version": "1.0.0",
+  "description": "API Rest com NestJS e Prisma ORM",
+  "author": "Wanderson Alves",
+  "private": false,
+  "license": "LGPL-3.0-only",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
